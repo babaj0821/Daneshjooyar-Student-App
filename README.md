@@ -6,8 +6,7 @@ Daneshjooyar is a student management mobile application built as an Advanced Pro
 
 | Name | Role |
 |---|---|
-| Iman Babajani | Project member / collaborator |
-| Ali Montazeriyoun | Back-end developer |
+| Iman Babajani | Back-end developer |
 | Mehdi Karimi | Front-end developer |
 
 ## Project Overview
