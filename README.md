@@ -274,6 +274,5 @@ Possible improvements for future versions:
 
 This project was developed by **Iman Babajani**, **Ali Montazeriyoun**, and **Mehdi Karimi** for the AP course in Spring 2024.
 
-- Back-end development: **Ali Montazeriyoun**
 - Front-end development: **Mehdi Karimi**
-- Project collaboration: **Iman Babajani**
+- Back-end development: **Iman Babajani**
