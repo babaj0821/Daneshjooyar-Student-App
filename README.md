@@ -272,7 +272,7 @@ Possible improvements for future versions:
 
 ## Credits
 
-This project was developed by **Iman Babajani**, **Ali Montazeriyoun**, and **Mehdi Karimi** for the AP course in Spring 2024.
+This project was developed by **Iman Babajani**, and **Mehdi Karimi** for the AP course in Spring 2024.
 
 - Front-end development: **Mehdi Karimi**
 - Back-end development: **Iman Babajani**
